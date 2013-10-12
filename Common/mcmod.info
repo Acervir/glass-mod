@@ -1,0 +1,20 @@
+[
+{
+  "modid": "GC",
+  "name": "Glass Castle",
+  "description": "New functionality for glass, plus a few surprises!",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "AcerVir"
+  ],
+  "credits": "Pahimar's Letsmod Series, Family and Friends",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
